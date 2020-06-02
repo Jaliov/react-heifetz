@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-heifetz/static/css/main.54410967.chunk.css",
-    "main.js": "/react-heifetz/static/js/main.14e20413.chunk.js",
-    "main.js.map": "/react-heifetz/static/js/main.14e20413.chunk.js.map",
+    "main.css": "/react-heifetz/static/css/main.46484421.chunk.css",
+    "main.js": "/react-heifetz/static/js/main.8b791c1f.chunk.js",
+    "main.js.map": "/react-heifetz/static/js/main.8b791c1f.chunk.js.map",
     "runtime-main.js": "/react-heifetz/static/js/runtime-main.664fa7e3.js",
     "runtime-main.js.map": "/react-heifetz/static/js/runtime-main.664fa7e3.js.map",
     "static/js/2.880421bb.chunk.js": "/react-heifetz/static/js/2.880421bb.chunk.js",
     "static/js/2.880421bb.chunk.js.map": "/react-heifetz/static/js/2.880421bb.chunk.js.map",
     "index.html": "/react-heifetz/index.html",
-    "precache-manifest.2d954f6edbfcd3d9d3afc99b9732d9a4.js": "/react-heifetz/precache-manifest.2d954f6edbfcd3d9d3afc99b9732d9a4.js",
+    "precache-manifest.e767009697ef5c4a4cb8f569e0e22d2b.js": "/react-heifetz/precache-manifest.e767009697ef5c4a4cb8f569e0e22d2b.js",
     "service-worker.js": "/react-heifetz/service-worker.js",
-    "static/css/main.54410967.chunk.css.map": "/react-heifetz/static/css/main.54410967.chunk.css.map",
+    "static/css/main.46484421.chunk.css.map": "/react-heifetz/static/css/main.46484421.chunk.css.map",
     "static/js/2.880421bb.chunk.js.LICENSE.txt": "/react-heifetz/static/js/2.880421bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.664fa7e3.js",
     "static/js/2.880421bb.chunk.js",
-    "static/css/main.54410967.chunk.css",
-    "static/js/main.14e20413.chunk.js"
+    "static/css/main.46484421.chunk.css",
+    "static/js/main.8b791c1f.chunk.js"
   ]
 }
