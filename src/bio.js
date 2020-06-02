@@ -6,11 +6,12 @@ import VideoDsply from './VideoLinks';
 
 export class Bio extends Component {
   render() {
+    const violinistinfo = { name: 'Jascha Heifetz' };
     const status = { level: 'The Greatest Violinist!' };
     return (
       <div id='main'>
         <h1 id='title'>
-          {this.props.name}, {status.level}
+          {violinistinfo.name}, {status.level}
         </h1>
         <PhotoDsply></PhotoDsply>
         {/* <Caption>Jascha Heifetz (February 2, 1901 - December 10, 1987), is universally acclaimed <br />the greatest violinist that ever lived.</Caption> */}
@@ -18,7 +19,7 @@ export class Bio extends Component {
         <p id='img-caption'>
           <em>
             Jascha Heifetz (February 2, 1901 - December 10, 1987), is
-            universally acclaimed <br />
+            universally acclaimed <br /> the greatest violinist that ever lived.
           </em>
         </p>
         <p>
@@ -311,9 +312,9 @@ export class Bio extends Component {
             Discover more about Heifetz here{' '}
           </a>
           <h3>Example of Heifetz's Remarkable Violin Playing</h3>
-          <div style={{ margin: '0 auto 0 auto', width: '50%' }}>
+          <div>
             <div id='HeifetzClip'>
-              <VideoDsply></VideoDsply>
+              <VideoDsply />
             </div>
           </div>
         </div>
