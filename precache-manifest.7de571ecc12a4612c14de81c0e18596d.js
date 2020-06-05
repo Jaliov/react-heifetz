@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aeb713a73008158142ddbd0c8629a6c0",
+    "revision": "0b8372b96c353c88f326add61cc187bf",
     "url": "/react-heifetz/index.html"
   },
   {
-    "revision": "19453dc8233f07e39168",
-    "url": "/react-heifetz/static/css/main.46484421.chunk.css"
+    "revision": "43cc8cd90469efb56dcf",
+    "url": "/react-heifetz/static/css/main.b619933e.chunk.css"
   },
   {
     "revision": "d18dd90470a5b01a5feb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-heifetz/static/js/2.880421bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19453dc8233f07e39168",
-    "url": "/react-heifetz/static/js/main.8b791c1f.chunk.js"
+    "revision": "43cc8cd90469efb56dcf",
+    "url": "/react-heifetz/static/js/main.1ffc215a.chunk.js"
   },
   {
     "revision": "76ca71d0a0c3273f40f0",
