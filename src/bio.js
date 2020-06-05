@@ -5,15 +5,17 @@ import './App.css';
 import VideoDsply from './VideoLinks';
 
 export class Bio extends Component {
+  state = { level: 'The Greatest Violinist!' };
+
   render() {
-    const status = { level: 'The Greatest Violinist!' };
+    const { level } = this.state;
     return (
       <div
         style={{ backgroundColor: 'rgb(97, 11, 11, 0.2)', margin: '0 5% 0 5%' }}
       >
         <div id='main'>
           <h1 id='title'>
-            {this.props.name}, {status.level}
+            {this.props.name}, {level}
           </h1>
 
           <h3 id='img-caption'>
