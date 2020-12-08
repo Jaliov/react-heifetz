@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-heifetz/static/css/main.b619933e.chunk.css",
+    "main.css": "/react-heifetz/static/css/main.0d555add.chunk.css",
     "main.js": "/react-heifetz/static/js/main.1ffc215a.chunk.js",
     "main.js.map": "/react-heifetz/static/js/main.1ffc215a.chunk.js.map",
     "runtime-main.js": "/react-heifetz/static/js/runtime-main.664fa7e3.js",
@@ -8,15 +8,15 @@
     "static/js/2.880421bb.chunk.js": "/react-heifetz/static/js/2.880421bb.chunk.js",
     "static/js/2.880421bb.chunk.js.map": "/react-heifetz/static/js/2.880421bb.chunk.js.map",
     "index.html": "/react-heifetz/index.html",
-    "precache-manifest.7de571ecc12a4612c14de81c0e18596d.js": "/react-heifetz/precache-manifest.7de571ecc12a4612c14de81c0e18596d.js",
+    "precache-manifest.cc0a8c6e3c8cf37400e436de27d42fc4.js": "/react-heifetz/precache-manifest.cc0a8c6e3c8cf37400e436de27d42fc4.js",
     "service-worker.js": "/react-heifetz/service-worker.js",
-    "static/css/main.b619933e.chunk.css.map": "/react-heifetz/static/css/main.b619933e.chunk.css.map",
+    "static/css/main.0d555add.chunk.css.map": "/react-heifetz/static/css/main.0d555add.chunk.css.map",
     "static/js/2.880421bb.chunk.js.LICENSE.txt": "/react-heifetz/static/js/2.880421bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.664fa7e3.js",
     "static/js/2.880421bb.chunk.js",
-    "static/css/main.b619933e.chunk.css",
+    "static/css/main.0d555add.chunk.css",
     "static/js/main.1ffc215a.chunk.js"
   ]
 }
