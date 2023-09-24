@@ -1,34 +1,36 @@
 /* eslint-disable react/jsx-no-target-blank */
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 // import PhotoDsply from './Photo';
-import VideoDsply from './VideoLinks';
+import VideoDsply from "./VideoLinks";
 
 export class Bio extends Component {
-  state = { level: 'The Greatest Violinist!' };
+  state = { level: "The Greatest Violinist!" };
 
   render() {
     const { level } = this.state;
     return (
       <div
-        style={{ backgroundColor: 'rgb(97, 11, 11, 0.2)', margin: '0 5% 0 5%' }}
+        style={{ backgroundColor: "rgb(97, 11, 11, 0.2)", margin: "0 5% 0 5%" }}
       >
-        <div id='main'>
-          <h1 id='title'>
+        <div id="main">
+          <h1 id="title">
             {this.props.name}, {level}
           </h1>
 
-          <h3 id='img-caption'>
+          <h3 id="img-caption">
             <em>
               Jascha Heifetz (February 2, 1901 - December 10, 1987), is
               universally acclaimed <br /> the greatest violinist that ever
               lived.
             </em>
           </h3>
-          <p style={{ marginBottom: '75px' }}>
-            <a href='#HeifetzClip'>Hear Heifetz play!</a>
+          <p style={{ marginBottom: "75px" }}>
+            <a href="#HeifetzClip" class="tributeInfo">
+              <h4>Hear Heifetz play!</h4>
+            </a>
           </p>
-          <div className='tributeInfo'>
+          <div className="tributeInfo">
             <h3>General Timeline of Heifetz's Life and Career</h3>
             <p>
               <strong>1901:</strong> Born in Vilnius, Lithuania (then a part of
@@ -142,7 +144,7 @@ export class Bio extends Component {
               Symphony Orchestra.
             </p>
             <p>
-              <strong>1939:</strong> Starred in the MGM movie,{' '}
+              <strong>1939:</strong> Starred in the MGM movie,{" "}
               <em>They Shall Have Music</em>; gave the world premiere of the
               Walton violin concerto with Artur Rodzinski and the Cleveland
               Symphony Orchestra.
@@ -314,15 +316,15 @@ export class Bio extends Component {
               Sciences.
             </p>
             <a
-              id='tribute-link'
-              href='https://en.wikipedia.org/wiki/Jascha_Heifetz'
-              target='_blank'
+              id="tribute-link"
+              href="https://en.wikipedia.org/wiki/Jascha_Heifetz"
+              target="_blank"
             >
-              Discover more about Heifetz here{' '}
+              Discover more about Heifetz here{" "}
             </a>
             <h3>Example of Heifetz's Remarkable Violin Playing</h3>
             <div>
-              <div id='HeifetzClip'>
+              <div id="HeifetzClip">
                 <VideoDsply />
               </div>
             </div>
