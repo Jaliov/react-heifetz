@@ -45,31 +45,27 @@
 
 .tributeInfo {
   padding: 1%;
-  background-color: rgb(99, 8, 8, 0.7);
-  margin-top: 25%;
+  background-color: rgba(97, 11, 11, 0.5);
+  margin-top: 5%;
   text-align: left;
   font-family: Verdana, Helvetica, Tahoma, sans-serif;
   color: rgb(255, 250, 232);
   margin-top: 1em;
-
 }
 
 body {
-  background-image:
-    url('https://miro.medium.com/max/735/1*zmGgpgKPHLT_E1GMDAUshQ.jpeg');
+  background-image: url("https://miro.medium.com/max/735/1*zmGgpgKPHLT_E1GMDAUshQ.jpeg");
 
   background-color: rgb(97, 11, 11, 0.5);
   z-index: 2;
 }
 
-
 #main {
-
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;
-  background-color: rgb(97, 11, 11, .2);
+  background-color: rgb(97, 11, 11, 0.2);
   color: rgb(255, 250, 232);
 }
 
@@ -82,7 +78,7 @@ body {
 
 #img-caption {
   margin-bottom: 2px;
-  font-family: 'Domine', serif;
+  font-family: "Domine", serif;
   text-align: center;
   font-weight: bold;
 }
@@ -91,7 +87,7 @@ h1,
 h2,
 h3 {
   text-align: center;
-  font-family: 'Domine', serif;
+  font-family: "Domine", serif;
   letter-spacing: 1px;
 }
 
@@ -100,7 +96,7 @@ Caption {
 }
 
 a {
-  font-family: 'Domine', serif;
+  font-family: "Domine", serif;
   padding: 5px;
 }
 
@@ -125,11 +121,11 @@ a:active {
 
 a:link {
   text-decoration: none;
-  background-color: rgb(212, 76, 76);
+  background-color: rgb(212, 76, 76, 0.7);
 }
 
 a:hover {
-  background-color: blue;
+  background-color: rgb(229, 222, 222);
 }
 
 .iframe-container {

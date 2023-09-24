@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 // import PhotoDsply from './Photo';
-import Bio from "./Bio";
-
-import React from "react";
+import Bio from "./bio";
 
 const App = () => {
   return (

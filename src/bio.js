@@ -25,9 +25,9 @@ export class Bio extends Component {
               lived.
             </em>
           </h3>
-          <p style={{ marginBottom: "75px" }}>
+          <p style={{ marginBottom: "50px" }}>
             <a href="#HeifetzClip" class="tributeInfo">
-              <h4>Hear Heifetz play!</h4>
+              Hear Heifetz play!
             </a>
           </p>
           <div className="tributeInfo">
@@ -319,6 +319,7 @@ export class Bio extends Component {
               id="tribute-link"
               href="https://en.wikipedia.org/wiki/Jascha_Heifetz"
               target="_blank"
+              class="tributeInfo"
             >
               Discover more about Heifetz here{" "}
             </a>
