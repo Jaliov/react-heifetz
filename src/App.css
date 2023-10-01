@@ -46,11 +46,11 @@
 .tributeInfo {
   padding: 1%;
   background-color: rgba(97, 11, 11, 0.5);
-  margin-top: 5%;
+
   text-align: left;
   font-family: Verdana, Helvetica, Tahoma, sans-serif;
   color: rgb(255, 250, 232);
-  margin-top: 1em;
+  margin-top: 4em;
 }
 
 body {
@@ -102,6 +102,8 @@ a {
 
 a:link {
   color: rgb(243, 236, 236);
+  text-decoration: none;
+  background-color: rgb(212, 76, 76, 0.7);
 }
 
 /* visited link */
@@ -117,11 +119,6 @@ a:hover {
 /* selected link */
 a:active {
   color: rgb(250, 203, 203);
-}
-
-a:link {
-  text-decoration: none;
-  background-color: rgb(212, 76, 76, 0.7);
 }
 
 a:hover {

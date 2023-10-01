@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-heifetz/static/css/main.ae279aa7.css",
-    "main.js": "/react-heifetz/static/js/main.01c9b623.js",
+    "main.css": "/react-heifetz/static/css/main.15c1b354.css",
+    "main.js": "/react-heifetz/static/js/main.ee05b146.js",
     "index.html": "/react-heifetz/index.html",
-    "main.ae279aa7.css.map": "/react-heifetz/static/css/main.ae279aa7.css.map",
-    "main.01c9b623.js.map": "/react-heifetz/static/js/main.01c9b623.js.map"
+    "main.15c1b354.css.map": "/react-heifetz/static/css/main.15c1b354.css.map",
+    "main.ee05b146.js.map": "/react-heifetz/static/js/main.ee05b146.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae279aa7.css",
-    "static/js/main.01c9b623.js"
+    "static/css/main.15c1b354.css",
+    "static/js/main.ee05b146.js"
   ]
 }
