@@ -2,7 +2,7 @@
   "name": "react-heifetz",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://jaliov.github.io/react-heifetz/",
+  "homepage": "https://jaliov.github.io/react-heifetz/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
